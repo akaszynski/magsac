@@ -17,7 +17,7 @@ cmake_args += ['-DCMAKE_BUILD_TYPE=' + cfg]
 cmake_args += ['-DCREATE_SAMPLE_PROJECT=OFF']  # <-- Disable the sample project
 		
 setup(
-    name='pymagsac',
+    name='pymagsac-testing',
     version='0.3.0',
     author='Daniel Barath, Dmytro Mishkin',
     author_email='barath.daniel@sztaki.hu',
